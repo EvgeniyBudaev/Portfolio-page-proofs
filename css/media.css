@@ -1,0 +1,117 @@
+
+@media (max-width: 1160px) {
+  .nav-menu__items {
+    padding-left: 55px;
+  }
+  .section__titles {
+    left: 50%;
+    max-width: 550px;
+    width: 100%;
+  }
+  .section__title {
+    text-align: center;
+  }
+}
+@media (max-width: 950px) {
+  .home-page .home-page__titles {
+    left: 40%;
+  }
+  .section__title  {
+    font-size: 74px;
+  }
+  .section__btn-container, .section__titles {
+    left: 45%;
+  }
+}
+@media (max-width: 840px) {
+  .home-page .home-page__title {
+    text-align: center;
+  }
+  .section__btn-container {
+    top: 68%;
+    max-width: 350px;
+  }
+  .section__btn-container .btn {
+    display: block;
+    text-align: center;
+  }
+}
+@media (max-width: 720px) {
+  .nav-menu__items {
+    display: none;
+  }
+  .section__titles .section__title  {
+    font-size: 65px;
+  }
+}
+@media (max-width: 640px) {
+  .section__titles .section__title  {
+    font-size: 50px;
+  }
+}
+@media (max-width: 520px) {
+  .home-page .home-page__title {
+    font-size: 75px;
+  }
+  .header__logo {
+    left: 20px;
+  }
+  .sidebar-cover {
+    display: none;
+  }
+  .link1,
+  .link2,
+  .link3,
+  .link4,
+  .link5 {
+    top: 10%;
+    left: 45%;
+    text-align: center;
+  }
+  .link2 {
+    margin-top: 110px;
+  }
+  .link4 {
+    margin-top: 217px;
+  }
+  .link5 {
+    margin-top: 323px;
+  }
+  .section__titles .section__title  {
+    font-size: 43px;
+  }
+  .section__titles .section__subtitle  {
+    font-size: 18px;
+  }
+}
+@media (max-width: 430px) {
+  .home-page .home-page__title {
+    font-size: 60px;
+  }
+  .home-page .home-page__titles {
+    left: 43%;
+  }
+  .header__logo {
+    top: 30px;
+  }
+  .section__titles .section__title  {
+    font-size: 32px;
+  }
+  .section__btn-container {
+    max-width: 295px;
+  }
+  .section__btn-container .btn {
+    letter-spacing: 3px;
+  }
+}
+@media (max-width: 380px) {
+  .section__btn-container {
+    max-width: 280px;
+  }
+  .section__btn-container .btn {
+    letter-spacing: 2px;
+  }
+  .section__btn-container, .section__titles {
+    left: 43%;
+  }
+}
